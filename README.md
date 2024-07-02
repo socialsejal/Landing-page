@@ -1,4 +1,4 @@
-# Anon - An eCommerce Website
+# StyleSage - An eCommerce Website
 
 ![GitHub repo size](https://img.shields.io/github/repo-size/socialsejal/anon-ecommerce-website)
 ![GitHub stars](https://img.shields.io/github/stars/socialsejal/StyleSage-ecommerce-website?style=social)
